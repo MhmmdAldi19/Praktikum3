@@ -3,7 +3,7 @@
 1. Buat File bernama luasKelilingLingkaran.py
 2. Berikut Flowchart untuk menghitung luas dan keliling lingkaran
 
-   ![flow](img/flow.png)
+   <img width="625" alt="flow" src="https://user-images.githubusercontent.com/115919203/198866932-1b16aa3d-0a77-4970-8ec8-693977aaa112.png">
 
 4. Lalu Masukan CODE berikut :
 
@@ -45,6 +45,6 @@
 
 4. Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
 
-   ![Hasil](img/hasil.png)
+   ![hasil](https://user-images.githubusercontent.com/115919203/198866964-fde45693-f544-46d3-98b7-d62a24deced2.png)
 
 5. Selesai Begitulah cara menghitung luas dan keliling Lingkaran
